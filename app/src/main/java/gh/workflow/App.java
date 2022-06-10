@@ -11,5 +11,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
         System.out.println("My name is Larissa.");
+        System.out.println("My name is Natalia");
+        
     }
 }
